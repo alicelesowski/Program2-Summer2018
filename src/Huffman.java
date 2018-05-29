@@ -1,3 +1,14 @@
+/*
+ * Alicé Lesowski
+ * May 29, 2018
+ * CSCI 232
+ * This code is supposed to represent a huffman algorithm that takes in an input 
+ * file and counts the frequency of each letter, encodes the characters by their frequency
+ * with their own binary code into a binary tree and prints the encoded message to an output file.
+ *
+ * Attempted to print code for each character but was only able to get the character w to print for each code
+ * Because of this, attemps to encode and decode weren't successful
+ */
 
 import java.util.ArrayList;
 import java.util.Collection;
